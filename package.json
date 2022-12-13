@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/akonho99qn/nodejs_blog#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^5.1.0",
     "mongoose-morgan": "^1.0.15"
   },
